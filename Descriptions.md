@@ -152,7 +152,7 @@ Below is the current list of Vigilance UHC Scenarios and descriptions, updated a
 > Upon shooting a player, you will trade places with them.
 
 ### Taxidermy
-> Certain mobs will have a chance to drop their head upon death. Weating those heads will give special effects and abilities. All the heads are enchanted with Protection V (the same as an unenchanted diamond helmet). [Click here](Scenarios/Taxidermy.md) for a list of all drop percentages and abilities
+> Certain mobs will have a chance to drop their head upon death. Weating those heads will give special effects and abilities. All the heads are enchanted with Protection V (the same as an unenchanted diamond helmet). [Click here](https://github.com/VigilanceMC/Scenarios/blob/main/Taxidermy.md) for a list of all drop percentages and abilities
 
 ### Team Health
 > Player's health is displayed as the combined health of their entire team.
