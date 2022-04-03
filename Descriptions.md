@@ -83,7 +83,7 @@ Below is the current list of Vigilance UHC Scenarios and descriptions, updated a
 > All players start with 20,000 levels, 64 anvils, and an Unbreaking 250 and Luck of the Sea 250 fishing rod. Crafting enchantment tables is disabled.
 
 ### Grave Robbers
-> When players die, their drops are put in a chest below the ground. If paired with [Time Bomb](https://github.com/VigilanceMC/Scenarios/new/main#time-bomb), the grave will detonate after 30 seconds.
+> When players die, their drops are put in a chest below the ground. If paired with [Time Bomb](https://github.com/VigilanceMC/Scenarios/blob/main/Descriptions.md#time-bomb), the grave will detonate after 30 seconds.
 
 ### Hastey Babies
 > All tools are automatically enchanted with Efficiency I.
@@ -98,7 +98,7 @@ Below is the current list of Vigilance UHC Scenarios and descriptions, updated a
 > All players start with 20,000 levels, 64 enchantment tables, 64 anvils, 128 bookshelves, and 64 lapis lazuli.
 
 ### Limitations
-> Players can only mine 16 diamonds, 32 gold, and 64 iron during the game. (This will also account for [Vein Miner](https://github.com/VigilanceMC/Scenarios/new/main#vein-miner), if paired together.)
+> Players can only mine 16 diamonds, 32 gold, and 64 iron during the game. (This will also account for [Vein Miner](https://github.com/VigilanceMC/Scenarios/blob/main/Descriptions.md#vein-miner), if paired together.)
 
 ### Loot Crates
 > Every ten minutes, players receive a Loot Crate containing a reward. These Loot Crates can be either Tier I (normal chest) or Tier II (ender chest).
